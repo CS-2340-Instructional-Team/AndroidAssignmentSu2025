@@ -2,7 +2,7 @@
 
 In this assignment will be completing the implmentation of a basic task list app by filling in 7 different TODOs represting missing parts of a fully functional app.
 
-The app will have two Activities, MainActivity and AddTaskActivity
+The app will have two Activities, WatchlistActivity and AddMediaActivity
 
 The project folder contains 7 TODOs in 4 different files:
 
