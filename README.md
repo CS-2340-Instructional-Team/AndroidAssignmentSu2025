@@ -16,10 +16,8 @@ AddMediaActivity.java contains TODO 6
 
 ExampleUnitTest.java contains TODO 7
 
-Note that some of the TODOs (particulary the ones implementing Intents and Bundles) are dependedent on the implmentation in both of the Activities
-
-Although it is not essential, you may want consider doing these TODOs in order as the concepts are somewhat sequential.
+Note that some of the TODOs are dependent on previous TODOs. So, you may want consider doing these TODOs in sequential order
 
 Please refer to the Android Tutorial videos posted to Canvas for implementation tips.
 
-Here is a video displaying the correct functionality of the app that you should strive for: https://youtu.be/Fdn-mDC2STc
+Here is a video displaying the correct functionality of the app that you should strive for: https://youtu.be/VfLajMJY7V4?si=pKAO12THq5zjRSU4
